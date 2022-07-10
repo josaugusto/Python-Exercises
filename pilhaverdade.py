@@ -22,16 +22,9 @@
 
             3: infixa com chaves e colchetes
 
-            [V ^ F (V v F s F) ^ V]
-
             1: parênteses
             2: colchetes
             3: chaves
-
-            {V v F ^ [F d F]}
-
-            V ^ V
-            V
 
 V ^ V v F s V
 V v F s V

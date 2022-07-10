@@ -1,7 +1,8 @@
 """
 
     Autor: José Augusto 
-
+    Interpretador: Python 3.10.4
+    
     Exércicio
 
         Implemente uma estrutura de pilha estática, para resolver o cálculo de expressões lógicas 
